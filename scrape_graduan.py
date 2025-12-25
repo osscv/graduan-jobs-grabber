@@ -1,3 +1,5 @@
+# Github: https://github.com/osscv/graduan-jobs-grabber/
+# By: https://github.com/osscv/
 import requests
 import re
 import html
